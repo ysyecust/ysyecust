@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Process Simulation software development
 - 📫 How to reach me: ysyecust@gmail.com\
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysyecust&count_private=true&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysyecust&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ysyecust)](https://github.com/ryo-ma/github-profile-trophy)
 
 
