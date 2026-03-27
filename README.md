@@ -52,13 +52,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ysyecust&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysyecust&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ysyecust&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 
 </div>
@@ -70,7 +63,9 @@
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ysyecust&theme=tokyo-night&hide_border=true&radius=12" width="95%" alt="Activity Graph" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ysyecust/ysyecust/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ysyecust/ysyecust/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/ysyecust/ysyecust/blob/output/github-snake-dark.svg" width="95%" />
+  </picture>
 </div>
