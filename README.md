@@ -1,8 +1,16 @@
-### Hi there 👋 I'm YANG Shaoyi
+<div align="center">
 
-🎓 Ph.D. student at **East China University of Science and Technology (ECUST)**, Shanghai
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+YANG+Shaoyi;Ph.D.+%40+ECUST+%7C+Shanghai;Process+Simulation+%2B+HPC+%2B+AI" alt="Typing SVG" />
 
-🔬 My research focuses on **Process Systems Engineering (PSE)** — building next-generation process simulation software powered by **AI** and **HPC**.
+</div>
+
+<div align="center">
+
+🎓 Ph.D. student at **East China University of Science and Technology (ECUST)**
+
+🔬 Research focus: **Process Systems Engineering (PSE)** — next-gen process simulation powered by **AI** & **HPC**
+
+</div>
 
 ---
 
@@ -23,20 +31,46 @@
 
 #### 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/-C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,python,cuda,cmake,latex,linux,git,docker,vscode&theme=dark&perline=9" alt="Tech Stack" />
+</a>
+
+</div>
 
 #### 📫 How to reach me
 
-- ✉️ Email: ysyecust@gmail.com
-- 🌐 GitHub: [ysyecust](https://github.com/ysyecust)
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-ysyecust@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysyecust@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ysyecust-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ysyecust)
+
+</div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysyecust&count_private=true&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysyecust&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ysyecust&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ysyecust&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysyecust&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ysyecust&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ysyecust&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ysyecust&theme=tokyo-night&hide_border=true&radius=12" width="95%" alt="Activity Graph" />
+
+</div>
