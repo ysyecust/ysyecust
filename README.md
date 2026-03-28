@@ -32,36 +32,29 @@
 
 ### 🚀 Highlight Project
 
-<div align="center">
-
-<a href="https://github.com/ysyecust/lecture-to-notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=lecture-to-notes&theme=tokyonight&hide_border=true&border_radius=12&show_owner=true" />
-</a>
-
-**📺 lecture-to-notes** — Turn YouTube / Bilibili lectures into smart-cropped LaTeX/PDF notes automatically.
-
-Built with Claude Code & Codex. Just paste a video link, get beautifully formatted notes.
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="600">
+<h3><a href="https://github.com/ysyecust/lecture-to-notes">📺 lecture-to-notes</a></h3>
+<p><strong>Turn YouTube / Bilibili lectures into smart-cropped LaTeX/PDF notes automatically.</strong></p>
+<p>Built with Claude Code & Codex. Just paste a video link, get beautifully formatted notes.</p>
+<a href="https://github.com/ysyecust/lecture-to-notes"><img src="https://img.shields.io/github/stars/ysyecust/lecture-to-notes?style=for-the-badge&logo=github&color=f5c542" alt="Stars" /></a>
+<a href="https://github.com/ysyecust/lecture-to-notes"><img src="https://img.shields.io/github/forks/ysyecust/lecture-to-notes?style=for-the-badge&logo=github&color=70A5FD" alt="Forks" /></a>
+<a href="https://github.com/ysyecust/lecture-to-notes"><img src="https://img.shields.io/badge/lang-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🌟 More Open Source Projects
 
 <!-- START_PROJECTS -->
-<div align="center">
-
-<a href="https://github.com/ysyecust/everything-claude-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=everything-claude-code&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/ysyecust/claude-lark">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=claude-lark&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/ysyecust/codeboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=codeboard&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
+| | Project | Description | |
+|:-:|---------|-------------|:-:|
+| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="24" /> | **[everything-claude-code](https://github.com/ysyecust/everything-claude-code)** | Complete Claude Code configs for C++20 HPC development | ![Stars](https://img.shields.io/github/stars/ysyecust/everything-claude-code?style=flat-square&color=f5c542) |
+| <img src="https://skillicons.dev/icons?i=py&theme=dark" width="24" /> | **[claude-lark](https://github.com/ysyecust/claude-lark)** | Claude Code → Lark (Feishu) notification hook with rich cards | ![Stars](https://img.shields.io/github/stars/ysyecust/claude-lark?style=flat-square&color=f5c542) |
+| <img src="https://skillicons.dev/icons?i=py&theme=dark" width="24" /> | **[codeboard](https://github.com/ysyecust/codeboard)** | Local code repository dashboard CLI tool | ![Stars](https://img.shields.io/github/stars/ysyecust/codeboard?style=flat-square&color=f5c542) |
 <!-- END_PROJECTS -->
 
 ---
