@@ -1,64 +1,105 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+YANG+Shaoyi;Ph.D.+%40+ECUST+%7C+Shanghai;Process+Simulation+%2B+HPC+%2B+AI" alt="Typing SVG" />
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YANG%20Shaoyi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ph.D.%20@%20ECUST%20|%20Process%20Simulation%20×%20HPC%20×%20AI&descSize=18&descAlignY=55" />
+
+<!-- Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=550&height=55&lines=%E2%9A%97%EF%B8%8F+Building+next-gen+process+simulators;%F0%9F%9A%80+GPU-accelerated+chemical+engineering;%F0%9F%A4%96+AI-powered+developer+tools" alt="Typing SVG" />
+
+<!-- Visitor Badge -->
+<img src="https://komarev.com/ghpvc/?username=ysyecust&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
-<div align="center">
+<br/>
 
-🎓 Ph.D. student at **East China University of Science and Technology (ECUST)**
+<!-- About -->
+<table align="center">
+<tr><td>
 
-🔬 Research focus: **Process Systems Engineering (PSE)** — next-gen process simulation powered by **AI** & **HPC**
+```txt
+🎓  Ph.D. Student @ East China University of Science and Technology (ECUST)
+🔬  Research: Process Systems Engineering (PSE)
+🏭  Building: Next-gen process simulation software
+⚡  Passion: High-Performance Computing + AI + Chemical Engineering
+📍  Shanghai, China
+```
 
-</div>
+</td></tr>
+</table>
 
 ---
 
-#### 🔧 What I'm working on
+### 🌟 Featured Open Source Projects
 
-- 🏭 Process simulation software development (C++ / HPC)
-- 🤖 AI-assisted engineering tools & developer productivity
-- 📚 Exploring the intersection of chemical engineering and modern computing
+<!-- START_PROJECTS -->
+<div align="center">
 
-#### 🌟 Featured Open Source Projects
+<a href="https://github.com/ysyecust/everything-claude-code">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=everything-claude-code&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/ysyecust/lecture-to-notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=lecture-to-notes&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/ysyecust/claude-lark">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=claude-lark&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/ysyecust/codeboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=codeboard&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [everything-claude-code](https://github.com/ysyecust/everything-claude-code) | Complete collection of Claude Code configs for C++20 HPC development | ⭐ 18 |
-| [lecture-to-notes](https://github.com/ysyecust/lecture-to-notes) | Turn YouTube/Bilibili lectures into smart-cropped LaTeX/PDF notes | ⭐ 7 |
-| [claude-lark](https://github.com/ysyecust/claude-lark) | Claude Code → Lark (Feishu) notification hook with rich cards | ⭐ 2 |
-| [codeboard](https://github.com/ysyecust/codeboard) | Local code repository dashboard CLI tool | ⭐ 2 |
+</div>
+<!-- END_PROJECTS -->
 
-#### 🛠️ Tech Stack
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cuda,cmake,latex,linux,git,docker,vscode&theme=dark&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,cuda,cmake,latex&theme=dark&perline=5" alt="Languages" />
 </a>
 
-</div>
+<br/>
 
-#### 📫 How to reach me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-ysyecust@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysyecust@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ysyecust-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ysyecust)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode&theme=dark&perline=5" alt="Tools" />
+</a>
 
 </div>
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ysyecust&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ysyecust&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ysyecust&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 📫 Connect with me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-ysyecust@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysyecust@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ysyecust-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ysyecust)
 
 </div>
 
@@ -69,3 +110,6 @@
     <img alt="github-snake" src="https://github.com/ysyecust/ysyecust/blob/output/github-snake-dark.svg" width="95%" />
   </picture>
 </div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
