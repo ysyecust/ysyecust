@@ -30,16 +30,29 @@
 
 ---
 
-### 🌟 Featured Open Source Projects
+### 🚀 Highlight Project
+
+<div align="center">
+
+<a href="https://github.com/ysyecust/lecture-to-notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=lecture-to-notes&theme=tokyonight&hide_border=true&border_radius=12&show_owner=true" />
+</a>
+
+**📺 lecture-to-notes** — Turn YouTube / Bilibili lectures into smart-cropped LaTeX/PDF notes automatically.
+
+Built with Claude Code & Codex. Just paste a video link, get beautifully formatted notes.
+
+</div>
+
+---
+
+### 🌟 More Open Source Projects
 
 <!-- START_PROJECTS -->
 <div align="center">
 
 <a href="https://github.com/ysyecust/everything-claude-code">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=everything-claude-code&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/ysyecust/lecture-to-notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=lecture-to-notes&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/ysyecust/claude-lark">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysyecust&repo=claude-lark&theme=tokyonight&hide_border=true&border_radius=12" />
@@ -98,6 +111,7 @@
 
 <div align="center">
 
+[![Blog](https://img.shields.io/badge/Blog-ysyecust.github.io-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ysyecust.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-ysyecust@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysyecust@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ysyecust-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ysyecust)
 
