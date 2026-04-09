@@ -96,11 +96,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/sentrux/sentrux/pull/40) in [sentrux/sentrux](https://github.com/sentrux/sentrux)
-2. 🎉 Merged PR [#6](https://github.com/ysyecust/ysyecust/pull/6) in [ysyecust/ysyecust](https://github.com/ysyecust/ysyecust)
-3. 💪 Opened PR [#6](https://github.com/ysyecust/ysyecust/pull/6) in [ysyecust/ysyecust](https://github.com/ysyecust/ysyecust)
-4. 🎉 Merged PR [#5](https://github.com/ysyecust/ysyecust/pull/5) in [ysyecust/ysyecust](https://github.com/ysyecust/ysyecust)
-5. 💪 Opened PR [#5](https://github.com/ysyecust/ysyecust/pull/5) in [ysyecust/ysyecust](https://github.com/ysyecust/ysyecust)
+1. ❗ Opened issue [#1401](https://github.com/Yeachan-Heo/oh-my-codex/issues/1401) in [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+2. 💪 Opened PR [#40](https://github.com/sentrux/sentrux/pull/40) in [sentrux/sentrux](https://github.com/sentrux/sentrux)
+3. 🎉 Merged PR [#6](https://github.com/ysyecust/ysyecust/pull/6) in [ysyecust/ysyecust](https://github.com/ysyecust/ysyecust)
+4. 💪 Opened PR [#6](https://github.com/ysyecust/ysyecust/pull/6) in [ysyecust/ysyecust](https://github.com/ysyecust/ysyecust)
+5. 🎉 Merged PR [#5](https://github.com/ysyecust/ysyecust/pull/5) in [ysyecust/ysyecust](https://github.com/ysyecust/ysyecust)
 <!--END_SECTION:activity-->
 
 ---
