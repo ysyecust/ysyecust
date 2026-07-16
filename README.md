@@ -96,11 +96,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ysyecust/lecture-to-notes/issues/5#issuecomment-4990924271) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-2. 🎉 Merged PR [#2](https://github.com/ysyecust/lecture-to-notes/pull/2) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-3. 💪 Opened PR [#2](https://github.com/ysyecust/lecture-to-notes/pull/2) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-4. ❗ Opened issue [#1401](https://github.com/Yeachan-Heo/oh-my-codex/issues/1401) in [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
-5. 💪 Opened PR [#40](https://github.com/sentrux/sentrux/pull/40) in [sentrux/sentrux](https://github.com/sentrux/sentrux)
+1. 🎉 Merged PR [#11](https://github.com/ysyecust/lecture-to-notes/pull/11) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+2. 💪 Opened PR [#11](https://github.com/ysyecust/lecture-to-notes/pull/11) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+3. ❌ Closed PR [#10](https://github.com/ysyecust/lecture-to-notes/pull/10) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+4. 🗣 Commented on [#10](https://github.com/ysyecust/lecture-to-notes/pull/10#issuecomment-4994129629) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+5. 💪 Opened PR [#10](https://github.com/ysyecust/lecture-to-notes/pull/10) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
 <!--END_SECTION:activity-->
 
 ---
