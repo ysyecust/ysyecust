@@ -96,9 +96,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ysyecust/lecture-to-notes/pull/2) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-2. 💪 Opened PR [#2](https://github.com/ysyecust/lecture-to-notes/pull/2) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-3. ❗ Opened issue [#30](https://github.com/xiaoyeli/superlu_mt/issues/30) in [xiaoyeli/superlu_mt](https://github.com/xiaoyeli/superlu_mt)
+1. 🗣 Commented on [#5](https://github.com/ysyecust/lecture-to-notes/issues/5#issuecomment-4990924271) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+2. 🎉 Merged PR [#2](https://github.com/ysyecust/lecture-to-notes/pull/2) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+3. 💪 Opened PR [#2](https://github.com/ysyecust/lecture-to-notes/pull/2) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
 4. ❗ Opened issue [#1401](https://github.com/Yeachan-Heo/oh-my-codex/issues/1401) in [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 5. 💪 Opened PR [#40](https://github.com/sentrux/sentrux/pull/40) in [sentrux/sentrux](https://github.com/sentrux/sentrux)
 <!--END_SECTION:activity-->
