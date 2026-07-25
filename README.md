@@ -96,11 +96,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/ysyecust/lecture-to-notes/pull/11) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-2. 💪 Opened PR [#11](https://github.com/ysyecust/lecture-to-notes/pull/11) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-3. ❌ Closed PR [#10](https://github.com/ysyecust/lecture-to-notes/pull/10) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-4. 🗣 Commented on [#10](https://github.com/ysyecust/lecture-to-notes/pull/10#issuecomment-4994129629) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-5. 💪 Opened PR [#10](https://github.com/ysyecust/lecture-to-notes/pull/10) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+1. ❗ Opened issue [#1266](https://github.com/DeusData/codebase-memory-mcp/issues/1266) in [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+2. 🎉 Merged PR [#11](https://github.com/ysyecust/lecture-to-notes/pull/11) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+3. 💪 Opened PR [#11](https://github.com/ysyecust/lecture-to-notes/pull/11) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+4. ❌ Closed PR [#10](https://github.com/ysyecust/lecture-to-notes/pull/10) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+5. 🗣 Commented on [#10](https://github.com/ysyecust/lecture-to-notes/pull/10#issuecomment-4994129629) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
 <!--END_SECTION:activity-->
 
 ---
