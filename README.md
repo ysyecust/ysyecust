@@ -96,11 +96,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1266](https://github.com/DeusData/codebase-memory-mcp/issues/1266) in [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-2. 🎉 Merged PR [#11](https://github.com/ysyecust/lecture-to-notes/pull/11) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-3. 💪 Opened PR [#11](https://github.com/ysyecust/lecture-to-notes/pull/11) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-4. ❌ Closed PR [#10](https://github.com/ysyecust/lecture-to-notes/pull/10) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-5. 🗣 Commented on [#10](https://github.com/ysyecust/lecture-to-notes/pull/10#issuecomment-4994129629) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+1. 🗣 Commented on [#53565](https://github.com/microsoft/vcpkg/pull/53565#issuecomment-5393068196) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+2. 🗣 Commented on [#53564](https://github.com/microsoft/vcpkg/issues/53564#issuecomment-5393031805) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+3. 💪 Opened PR [#53565](https://github.com/microsoft/vcpkg/pull/53565) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+4. ❗ Opened issue [#53564](https://github.com/microsoft/vcpkg/issues/53564) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+5. ❗ Opened issue [#1266](https://github.com/DeusData/codebase-memory-mcp/issues/1266) in [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 <!--END_SECTION:activity-->
 
 ---
