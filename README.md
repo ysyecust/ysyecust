@@ -96,11 +96,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/ysyecust/lecture-to-notes/issues/14#issuecomment-5520195517) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-2. 🚀 Published release [v1.0.4 — tangent-state label experiment](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.4) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
-3. 🗣 Commented on [#5](https://github.com/ysyecust/lecture-to-notes/issues/5#issuecomment-5518740008) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-4. 🚀 Published release [v1.0.3 — rerun result tables](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.3) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
-5. 🚀 Published release [v1.0.2 — labelled stable-set criterion and rerun results](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.2) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
+1. 🗣 Commented on [#14](https://github.com/ysyecust/lecture-to-notes/issues/14#issuecomment-5524138522) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+2. 🗣 Commented on [#16](https://github.com/ysyecust/lecture-to-notes/pull/16#issuecomment-5524137981) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+3. 🗣 Commented on [#14](https://github.com/ysyecust/lecture-to-notes/issues/14#issuecomment-5520195517) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+4. 🚀 Published release [v1.0.4 — tangent-state label experiment](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.4) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
+5. 🗣 Commented on [#5](https://github.com/ysyecust/lecture-to-notes/issues/5#issuecomment-5518740008) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
 <!--END_SECTION:activity-->
 
 ---
