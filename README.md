@@ -96,11 +96,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.3 — rerun result tables](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.3) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
-2. 🚀 Published release [v1.0.2 — labelled stable-set criterion and rerun results](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.2) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
-3. 🚀 Published release [v1.0.1](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.1) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
-4. 🚀 Published release [v1.0.0](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.0) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
-5. 🗣 Commented on [#53565](https://github.com/microsoft/vcpkg/pull/53565#issuecomment-5477460958) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+1. 🗣 Commented on [#14](https://github.com/ysyecust/lecture-to-notes/issues/14#issuecomment-5520195517) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+2. 🚀 Published release [v1.0.4 — tangent-state label experiment](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.4) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
+3. 🗣 Commented on [#5](https://github.com/ysyecust/lecture-to-notes/issues/5#issuecomment-5518740008) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+4. 🚀 Published release [v1.0.3 — rerun result tables](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.3) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
+5. 🚀 Published release [v1.0.2 — labelled stable-set criterion and rerun results](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.2) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
 <!--END_SECTION:activity-->
 
 ---
