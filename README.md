@@ -96,11 +96,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/ysyecust/lecture-to-notes/pull/21) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-2. 💪 Opened PR [#21](https://github.com/ysyecust/lecture-to-notes/pull/21) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-3. 🎉 Merged PR [#20](https://github.com/ysyecust/lecture-to-notes/pull/20) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-4. 💪 Opened PR [#20](https://github.com/ysyecust/lecture-to-notes/pull/20) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-5. 🎉 Merged PR [#19](https://github.com/ysyecust/lecture-to-notes/pull/19) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+1. 🎉 Merged PR [#22](https://github.com/ysyecust/lecture-to-notes/pull/22) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+2. 💪 Opened PR [#22](https://github.com/ysyecust/lecture-to-notes/pull/22) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+3. 🎉 Merged PR [#21](https://github.com/ysyecust/lecture-to-notes/pull/21) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+4. 💪 Opened PR [#21](https://github.com/ysyecust/lecture-to-notes/pull/21) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+5. 🎉 Merged PR [#20](https://github.com/ysyecust/lecture-to-notes/pull/20) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
 <!--END_SECTION:activity-->
 
 ---
