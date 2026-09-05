@@ -96,11 +96,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/ysyecust/lecture-to-notes/issues/14#issuecomment-5524138522) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-2. 🗣 Commented on [#16](https://github.com/ysyecust/lecture-to-notes/pull/16#issuecomment-5524137981) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-3. 🗣 Commented on [#14](https://github.com/ysyecust/lecture-to-notes/issues/14#issuecomment-5520195517) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-4. 🚀 Published release [v1.0.4 — tangent-state label experiment](https://github.com/ysyecust/pcsaft-dispersion-homotopy/releases/tag/v1.0.4) in [ysyecust/pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)
-5. 🗣 Commented on [#5](https://github.com/ysyecust/lecture-to-notes/issues/5#issuecomment-5518740008) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+1. 🎉 Merged PR [#21](https://github.com/ysyecust/lecture-to-notes/pull/21) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+2. 💪 Opened PR [#21](https://github.com/ysyecust/lecture-to-notes/pull/21) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+3. 🎉 Merged PR [#20](https://github.com/ysyecust/lecture-to-notes/pull/20) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+4. 💪 Opened PR [#20](https://github.com/ysyecust/lecture-to-notes/pull/20) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+5. 🎉 Merged PR [#19](https://github.com/ysyecust/lecture-to-notes/pull/19) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
 <!--END_SECTION:activity-->
 
 ---
