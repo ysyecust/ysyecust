@@ -1,99 +1,50 @@
-<div align="center">
+<p align="center"><img src="assets/profile-banner.svg" width="100%" alt="Shaoyi Yang — Process simulation, scientific computing, and AI. From physical models to computational tools." /></p>
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YANG%20Shaoyi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ph.D.%20@%20ECUST%20|%20Process%20Simulation%20×%20HPC%20×%20AI&descSize=18&descAlignY=55" />
+<p align="center">
+  <a href="https://blog.simona.plus/"><b>Website</b></a> &nbsp; / &nbsp;
+  <a href="https://scholar.google.com/citations?user=4QYe0ZQAAAAJ&hl=en"><b>Google Scholar</b></a> &nbsp; / &nbsp;
+  <a href="https://blog.simona.plus/research/"><b>Research</b></a> &nbsp; / &nbsp;
+  <a href="https://blog.simona.plus/lecture-to-notes/"><b>Course library</b></a> &nbsp; / &nbsp;
+  <a href="mailto:ysyecust@gmail.com"><b>Email</b></a>
+</p>
 
-<!-- Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=550&height=55&lines=%E2%9A%97%EF%B8%8F+Building+next-gen+process+simulators;%F0%9F%9A%80+GPU-accelerated+chemical+engineering;%F0%9F%A4%96+AI-powered+developer+tools" alt="Typing SVG" />
+I'm **Shaoyi Yang (杨邵毅)**, also known as **逸少**, working on process systems engineering at **East China University of Science and Technology** in Shanghai.
 
-<!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=ysyecust&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
+I study how physical models become executable simulations, and build tools for research, software development, and learning. My interests connect thermodynamics and nonlinear computation with task-graph parallelism, GPU computing, and AI-assisted engineering.
 
-</div>
+### Research directions
 
-<br/>
+- **Process simulation:** thermodynamic properties, phase equilibrium, model formulation, and automatic differentiation.
+- **Scientific computing:** parallel execution, GPU kernels, and the numerical methods behind engineering software.
+- **AI for engineering:** agents for chemical process design and tools that help people develop, read, and write.
 
-<!-- About -->
-<table align="center">
-<tr><td>
+### Selected projects
 
-```txt
-🎓  Ph.D. Student @ East China University of Science and Technology (ECUST)
-🔬  Research: Process Systems Engineering (PSE)
-🏭  Building: Next-gen process simulation software
-⚡  Passion: High-Performance Computing + AI + Chemical Engineering
-📍  Shanghai, China
-```
+| Project | What it does |
+| :--- | :--- |
+| **[lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)** | Turns YouTube, Bilibili, and X lectures into Chinese LaTeX/PDF notes, with timestamped figures and verification records. [Browse the library](https://blog.simona.plus/lecture-to-notes/). |
+| **[pcsaft-dispersion-homotopy](https://github.com/ysyecust/pcsaft-dispersion-homotopy)** | Studies PC-SAFT density roots using dispersion-strength homotopy and adaptive pseudo-arclength continuation. |
+| **[write-reader-first-papers](https://github.com/ysyecust/write-reader-first-papers)** | A reader-first academic writing skill for Codex and Claude Code. |
+| **[everything-claude-code](https://github.com/ysyecust/everything-claude-code)** | Development configurations for C++20/HPC work, including agents, skills, hooks, and rules. |
+| **[claude-lark](https://github.com/ysyecust/claude-lark)** | Sends Claude Code task notifications to Lark/Feishu. |
+| **[codeboard](https://github.com/ysyecust/codeboard)** | A terminal dashboard for local Git repositories, branches, and recent activity. |
 
-</td></tr>
-</table>
+### Selected publications
 
----
+- **[From Text to Simulation: A Multi-Agent LLM Workflow for Automated Chemical Process Design](https://ojs.aaai.org/index.php/AAAI/article/view/40215)** — Tian, Du, Yang et al. · AAAI, 2026.
+- **[A Hierarchical Task Graph Parallel Computing Framework for Chemical Process Simulation](https://www.engineering.org.cn/engi/EN/1160001122553356779)** — Qu, Yang, Du et al. · Engineering, 2025.
+- **[The potential and challenges of large language model agent systems in chemical process simulation](https://journal.hep.com.cn/fcse/EN/10.1007/s11705-025-2587-5)** — Du and Yang · Frontiers of Chemical Science and Engineering, 2025.
 
-### 🚀 Highlight Project
+[More publications and preprints](https://blog.simona.plus/research/) · [Google Scholar](https://scholar.google.com/citations?user=4QYe0ZQAAAAJ&hl=en)
 
-<table align="center">
-<tr>
-<td align="center" width="600">
-<h3><a href="https://github.com/ysyecust/lecture-to-notes">📺 lecture-to-notes</a></h3>
-<p><strong>Turn YouTube / Bilibili lectures into smart-cropped LaTeX/PDF notes automatically.</strong></p>
-<p>Built with Claude Code & Codex. Just paste a video link, get beautifully formatted notes.</p>
-<a href="https://github.com/ysyecust/lecture-to-notes"><img src="https://img.shields.io/github/stars/ysyecust/lecture-to-notes?style=for-the-badge&logo=github&color=f5c542" alt="Stars" /></a>
-<a href="https://github.com/ysyecust/lecture-to-notes"><img src="https://img.shields.io/github/forks/ysyecust/lecture-to-notes?style=for-the-badge&logo=github&color=70A5FD" alt="Forks" /></a>
-<a href="https://github.com/ysyecust/lecture-to-notes"><img src="https://img.shields.io/badge/lang-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-</td>
-</tr>
-</table>
+### Notes from practice
 
----
+I share [technical articles](https://blog.simona.plus/archives/), [paper readings](https://blog.simona.plus/paper-notes/), and a [public course library](https://blog.simona.plus/lecture-to-notes/). The latest project introduction explains [how lecture-to-notes turns videos into reusable study materials](https://blog.simona.plus/2026/09/08/lecture-to-notes-reader-first/).
 
-### 🌟 More Open Source Projects
+**Tools I work with:** C++ · Python · CUDA · CMake · LaTeX · Linux · Git
 
-<!-- START_PROJECTS -->
-| | Project | Description | |
-|:-:|---------|-------------|:-:|
-| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="24" /> | **[everything-claude-code](https://github.com/ysyecust/everything-claude-code)** | Complete Claude Code configs for C++20 HPC development | ![Stars](https://img.shields.io/github/stars/ysyecust/everything-claude-code?style=flat-square&color=f5c542) |
-| <img src="https://skillicons.dev/icons?i=py&theme=dark" width="24" /> | **[claude-lark](https://github.com/ysyecust/claude-lark)** | Claude Code → Lark (Feishu) notification hook with rich cards | ![Stars](https://img.shields.io/github/stars/ysyecust/claude-lark?style=flat-square&color=f5c542) |
-| <img src="https://skillicons.dev/icons?i=py&theme=dark" width="24" /> | **[codeboard](https://github.com/ysyecust/codeboard)** | Local code repository dashboard CLI tool | ![Stars](https://img.shields.io/github/stars/ysyecust/codeboard?style=flat-square&color=f5c542) |
-<!-- END_PROJECTS -->
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cuda,cmake,latex&theme=dark&perline=5" alt="Languages" />
-</a>
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode&theme=dark&perline=5" alt="Tools" />
-</a>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ysyecust&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ysyecust&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### ⚡ Recent Activity
+<details>
+<summary>Recent GitHub activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#22](https://github.com/ysyecust/lecture-to-notes/pull/22) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
@@ -103,25 +54,8 @@
 5. 🎉 Merged PR [#20](https://github.com/ysyecust/lecture-to-notes/pull/20) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
 <!--END_SECTION:activity-->
 
+</details>
+
 ---
 
-### 📫 Connect with me
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Blog-ysyecust.github.io-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ysyecust.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-ysyecust@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysyecust@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ysyecust-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ysyecust)
-
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ysyecust/ysyecust/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ysyecust/ysyecust/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/ysyecust/ysyecust/blob/output/github-snake-dark.svg" width="95%" />
-  </picture>
-</div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+**欢迎用中文交流。** I'm happy to discuss process simulation, scientific computing, and practical AI tools. Reach me at [ysyecust@gmail.com](mailto:ysyecust@gmail.com).
