@@ -47,11 +47,11 @@ I share [technical articles](https://blog.simona.plus/archives/), [paper reading
 <summary>Recent GitHub activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/ysyecust/lecture-to-notes/issues/5) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-2. 🎉 Merged PR [#22](https://github.com/ysyecust/lecture-to-notes/pull/22) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-3. 💪 Opened PR [#22](https://github.com/ysyecust/lecture-to-notes/pull/22) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-4. 🎉 Merged PR [#21](https://github.com/ysyecust/lecture-to-notes/pull/21) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
-5. 💪 Opened PR [#21](https://github.com/ysyecust/lecture-to-notes/pull/21) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+1. 🎉 Merged PR [#25](https://github.com/ysyecust/lecture-to-notes/pull/25) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+2. 💪 Opened PR [#25](https://github.com/ysyecust/lecture-to-notes/pull/25) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+3. 🎉 Merged PR [#24](https://github.com/ysyecust/lecture-to-notes/pull/24) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+4. 💪 Opened PR [#24](https://github.com/ysyecust/lecture-to-notes/pull/24) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+5. 🎉 Merged PR [#23](https://github.com/ysyecust/lecture-to-notes/pull/23) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
 <!--END_SECTION:activity-->
 
 </details>
