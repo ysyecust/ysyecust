@@ -47,11 +47,11 @@ I share [technical articles](https://blog.simona.plus/archives/), [paper reading
 <summary>Recent GitHub activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/herdrdev/herdr-app/issues/228#issuecomment-6598470459) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
-2. 💪 Opened PR [#412](https://github.com/herdrdev/herdr-app/pull/412) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
-3. ❗ Opened issue [#409](https://github.com/herdrdev/herdr-app/issues/409) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
-4. 💪 Opened PR [#410](https://github.com/herdrdev/herdr-app/pull/410) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
-5. 🎉 Merged PR [#40](https://github.com/ysyecust/lecture-to-notes/pull/40) in [ysyecust/lecture-to-notes](https://github.com/ysyecust/lecture-to-notes)
+1. 🗣 Commented on [#410](https://github.com/herdrdev/herdr-app/pull/410#issuecomment-6652195710) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
+2. 🗣 Commented on [#228](https://github.com/herdrdev/herdr-app/issues/228#issuecomment-6598470459) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
+3. 💪 Opened PR [#412](https://github.com/herdrdev/herdr-app/pull/412) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
+4. ❗ Opened issue [#409](https://github.com/herdrdev/herdr-app/issues/409) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
+5. 💪 Opened PR [#410](https://github.com/herdrdev/herdr-app/pull/410) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
 <!--END_SECTION:activity-->
 
 </details>
