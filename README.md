@@ -47,11 +47,11 @@ I share [technical articles](https://blog.simona.plus/archives/), [paper reading
 <summary>Recent GitHub activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#410](https://github.com/herdrdev/herdr-app/pull/410#issuecomment-6652195710) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
-2. 🗣 Commented on [#228](https://github.com/herdrdev/herdr-app/issues/228#issuecomment-6598470459) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
-3. 💪 Opened PR [#412](https://github.com/herdrdev/herdr-app/pull/412) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
-4. ❗ Opened issue [#409](https://github.com/herdrdev/herdr-app/issues/409) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
-5. 💪 Opened PR [#410](https://github.com/herdrdev/herdr-app/pull/410) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
+1. 💪 Opened PR [#2](https://github.com/YnNJU/aerial-switcher/pull/2) in [YnNJU/aerial-switcher](https://github.com/YnNJU/aerial-switcher)
+2. ❗ Opened issue [#1](https://github.com/YnNJU/aerial-switcher/issues/1) in [YnNJU/aerial-switcher](https://github.com/YnNJU/aerial-switcher)
+3. 🗣 Commented on [#410](https://github.com/herdrdev/herdr-app/pull/410#issuecomment-6652195710) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
+4. 🗣 Commented on [#228](https://github.com/herdrdev/herdr-app/issues/228#issuecomment-6598470459) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
+5. 💪 Opened PR [#412](https://github.com/herdrdev/herdr-app/pull/412) in [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
 <!--END_SECTION:activity-->
 
 </details>
